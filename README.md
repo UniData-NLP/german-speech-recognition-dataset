@@ -1,5 +1,5 @@
-# Hindi Telephone Dialogues Dataset - 431 Hours
-Dataset comprises **760** hours of high-quality audio recordings from **590+** native German speakers, featuring telephone dialogues across diverse topics and domains. With a **95%** sentence accuracy rate, this essential dataset is ideal for training and evaluating **German speech recognition systems**. - **[Get the data](https://unidata.pro/datasets/german-speech-recognition-dataset/?utm_source=github-nlp&utm_medium=referral&utm_campaign=german-speech-recognition-dataset)**
+# German Telephone Dialogues Dataset - 431 Hours
+Dataset comprises **431** hours of high-quality audio recordings from **590+** native German speakers, featuring telephone dialogues across diverse topics and domains. With a **95%** sentence accuracy rate, this essential dataset is ideal for training and evaluating **German speech recognition systems**. - **[Get the data](https://unidata.pro/datasets/german-speech-recognition-dataset/?utm_source=github-nlp&utm_medium=referral&utm_campaign=german-speech-recognition-dataset)**
 ## Dataset characteristics:
 | Characteristic               | Data                                                                 |
 |------------------------------|----------------------------------------------------------------------|
